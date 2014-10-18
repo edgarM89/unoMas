@@ -1,0 +1,9 @@
+body{background:#e6e6e6;}
+body #barra{background:#086a87;padding-top:70px}
+body p{display:block;margin-left:410px;margin-top:-60px;color:#fff;font-family:verdana;font-size:45px;text-shadow:.1em .1em .1em #333}
+body table{background:#086a87;border:.5px solid #086a87;width:650px;margin-left:300px;margin-top:45px;box-shadow:10px 10px 5px #888;}
+body table td{padding-top:80px;background:#fff;margin-left:230px}
+body #bot1{box-shadow:10px 10px 5px #888;color:#000;font-style:bold;font-size:25px;padding-left:90px;padding-right:80px;margin-left:350px;display:block;margin-top:30px;text-decoration:none;width:80px;padding-top:10px;padding-bottom:10px;background:#819ff7;transition:all .5s ease;}
+body #bot1:hover{background:#fa8258}
+body #bot3{box-shadow:10px 10px 5px #888;color:#000;font-style:bold;font-size:25px;padding-left:80px;padding-right:80px;margin-top:-48px;margin-left:660px;display:block;text-decoration:none;width:80px;padding-top:10px;padding-bottom:10px;background:#819ff7;border-radius:2px;transition:all .5s ease;}
+body #bot3:hover{background:#fa8258}
